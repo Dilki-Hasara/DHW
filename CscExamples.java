@@ -12,23 +12,3 @@ public class CscExample{
 	public void setText(){
 		this.text=;
 	}
-	public int getQuestionNo(){
-		return ;
-	}
-	public String getCategory(){
-		return ;
-	}
-	public String getText(){
-		return ;
-	}
-	public void addQuestion(CscExample qu){
-	
-	}
-	public void removeQuestion(int quId){
-	
-	}
-	public void editQuestion(int quID){
-	
-	}
-}
-
